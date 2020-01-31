@@ -142,7 +142,7 @@ export default function Promo() {
         <Typography variant="h4" className={classes.heading}>
           Advanced Statistics
         </Typography>
-        <Typography variant="body" className={classes.tagline}>
+        <Typography variant="body1" className={classes.tagline}>
           Track how your links are performing across the web with our advanced statistics dashboard.
         </Typography>
       </div>

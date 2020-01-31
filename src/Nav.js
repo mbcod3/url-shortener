@@ -157,8 +157,8 @@ export default function Nav() {
     <nav className={clsx('container', classes.root)}>
       <img src={logo} alt="logo" className={classes.self}/>
       <input type="checkbox" id="burger-menu" className={classes.burgerMenu} />
-      <label class={classes.mobMenu} for="burger-menu">
-        <span class={classes.navIcon}></span>
+      <label className={classes.mobMenu} htmlFor="burger-menu">
+        <span className={classes.navIcon}></span>
       </label>
       <div className={classes.navDiv}>
         {navLinks.map((link,i) => <a href="#a" key={i} className={classes.navLinks}>{link}</a>)}

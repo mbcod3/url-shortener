@@ -94,16 +94,16 @@ export default function Footer() {
           {linkCategories.map((cat,i) => (
             <div className={classes.linkDiv} key={i}>
               <Typography variant="h6" className={classes.catHeadings}>{cat}</Typography>
-              {links[i].map(link => (
-                <a href={link[1]} className={classes.link}>{link[0]}</a>
+              {links[i].map((link,ind) => (
+                <a href={link[1]} className={classes.link} key={ind}>{link[0]}</a>
               ))}
             </div>
           ))}
           <div className={classes.social}>
-            <a href="#f" className={classes.icons}><i class="fab fa-facebook-square"></i></a>
-            <a href="#t" className={classes.icons}><i class="fab fa-twitter"></i></a>
-            <a href="#p" className={classes.icons}><i class="fab fa-pinterest"></i></a>
-            <a href="#i" className={classes.icons}><i class="fab fa-instagram"></i></a>
+            <a href="#f" className={classes.icons}><i className="fab fa-facebook-square"></i></a>
+            <a href="#t" className={classes.icons}><i className="fab fa-twitter"></i></a>
+            <a href="#p" className={classes.icons}><i className="fab fa-pinterest"></i></a>
+            <a href="#i" className={classes.icons}><i className="fab fa-instagram"></i></a>
           </div>
         </div>
       </div>
