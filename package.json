@@ -35,5 +35,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  },
+  "homepage": "http://mbcod3.github.io/url-shortener"
 }
