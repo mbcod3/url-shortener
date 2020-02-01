@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/url-shortener/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/url-shortener/static/js/main.6a762a7b.chunk.js",
+    "main.js.map": "/url-shortener/static/js/main.6a762a7b.chunk.js.map",
+    "runtime-main.js": "/url-shortener/static/js/runtime-main.03227aec.js",
+    "runtime-main.js.map": "/url-shortener/static/js/runtime-main.03227aec.js.map",
+    "static/js/2.6b48dd37.chunk.js": "/url-shortener/static/js/2.6b48dd37.chunk.js",
+    "static/js/2.6b48dd37.chunk.js.map": "/url-shortener/static/js/2.6b48dd37.chunk.js.map",
+    "index.html": "/url-shortener/index.html",
+    "precache-manifest.cf6b2c875ffb187babdc0893ed6b0159.js": "/url-shortener/precache-manifest.cf6b2c875ffb187babdc0893ed6b0159.js",
+    "service-worker.js": "/url-shortener/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/url-shortener/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.6b48dd37.chunk.js.LICENSE": "/url-shortener/static/js/2.6b48dd37.chunk.js.LICENSE",
+    "static/media/bg-boost-desktop.svg": "/url-shortener/static/media/bg-boost-desktop.dc8b886b.svg",
+    "static/media/bg-shorten-desktop.svg": "/url-shortener/static/media/bg-shorten-desktop.a82de60e.svg",
+    "static/media/icon-brand-recognition.svg": "/url-shortener/static/media/icon-brand-recognition.1922b68a.svg",
+    "static/media/icon-detailed-records.svg": "/url-shortener/static/media/icon-detailed-records.e3d9caa9.svg",
+    "static/media/icon-fully-customizable.svg": "/url-shortener/static/media/icon-fully-customizable.cc099cea.svg",
+    "static/media/illustration-working.svg": "/url-shortener/static/media/illustration-working.5029d049.svg",
+    "static/media/logo.svg": "/url-shortener/static/media/logo.6387840f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03227aec.js",
+    "static/js/2.6b48dd37.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.6a762a7b.chunk.js"
+  ]
+}
